@@ -12,7 +12,7 @@ width="400" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1
 
 ---
 
-## 🚀 About Me
+<h3>🚀 About Me</h3>
 I am a dedicated Computer Science & Engineering student with a passion for full-stack development and competitive programming. I love building impactful projects, solving challenging problems, and exploring the latest in technology.
 
 ---
