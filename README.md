@@ -58,7 +58,7 @@ I am a dedicated Computer Science & Engineering student with a passion for full-
 
 ### Blogs posts
 ## 🔗 Connect with Me
-- **Portfolio:** [Aniket Dandhare Portfolio](https://aniketdandhareportfolio.000webhostapp.com/index.php)  
+- **Portfolio:** [Aniket Dandhare Portfolio](https://aniketdandhareportfolio.netlify.app)  
 - **LinkedIn:** [Aniket Dandhare](https://www.linkedin.com/in/aniket-dandhare-102187228/)  
 - **CodeForces:** [TooLazyToPropagate](https://codeforces.com/profile/TooLazyToPropagate)  
 - **CodeChef:** [Aniket](https://www.codechef.com/users/aniket_aman)  
