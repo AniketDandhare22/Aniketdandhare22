@@ -1,6 +1,7 @@
-[![MasterHead](https://pouch.jumpshare.com/preview/ULuaMlcMLF2Dew-n3hyLQtTy-E6tdeBW1bjHULkmz4_CHr-DSovvQgwXGNVV66zKUxG51h7zoiO8WArxCkusSAsWibr-OaOPoyYnUn2clCY)](https://aniketdandhareportfolio.netlify.app)
+[![MasterHead](https://github.com/user-attachments/assets/73e69215-deb9-4dde-a70a-85df9f43b978)](https://aniketdandhareportfolio.netlify.app)
 
 <h3 align="center">A passionate Software Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketdandhare22&label=Profile%20views&color=0e75b6&style=flat" alt="aniketdandhare22" /> </p>
 <img align="right" alt="Coding" 
