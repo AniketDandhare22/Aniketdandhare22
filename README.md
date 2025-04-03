@@ -39,7 +39,7 @@ I am a dedicated Computer Science & Engineering student with a passion for full-
 ---
 
 ## 🌟 Achievements
-- **CodeForces Expert** (Rating: 1836, Rank: 457 in DIV-3 Contest)  
+- **CodeForces Expert** (Rating: 1638, Rank: 457 in DIV-3 Contest)  
 - **CodeChef 4-Star Rating** (Max Rating: 1936)  
 - Solved **650+ problems** on Codeforces and **100+ problems** on LeetCode  
 - Participated in **Flipkart GRID 2.0**, advancing to Round 2  
